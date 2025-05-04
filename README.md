@@ -62,7 +62,7 @@ Blinkit_Analysis/
    git clone https://github.com/yourusername/Blinkit_Analysis.git
    cd Blinkit_Analysis
 
-2.Install required libraries: pip install pandas matplotlib seaborn notebook
+ 2.Install required libraries: pip install pandas matplotlib seaborn notebook
 
 3. Launch the notebook:jupyter notebook
 4. Open and run Blinkit_Analysis_(4).ipynb.
