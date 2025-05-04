@@ -5,10 +5,12 @@ This project presents a detailed data analysis of Blinkit (formerly Grofers), a 
 ---
 
 ## 📁 Project Structure
+```
 Blinkit_Analysis/
-├── Blinkit_Analysis_(4).ipynb # Jupyter Notebook with full analysis
-├── README.md # Project documentation
-└── /data # (Optional) Raw data files
+├── Blinkit_Analysis_(4).ipynb    # Jupyter Notebook with full analysis
+├── README.md                     # Project documentation
+└── /data                         # (Optional) Raw data files
+```
 
 ---
 
@@ -59,3 +61,9 @@ Blinkit_Analysis/
    ```bash
    git clone https://github.com/yourusername/Blinkit_Analysis.git
    cd Blinkit_Analysis
+
+2.Install required libraries: pip install pandas matplotlib seaborn notebook
+
+3. Launch the notebook:jupyter notebook
+4. Open and run Blinkit_Analysis_(4).ipynb.
+
